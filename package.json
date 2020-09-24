@@ -1,6 +1,6 @@
 {
   "name": "troyelib",
-  "version": "3.0.0",
+  "version": "5.0.0",
   "description": "",
   "main": "dist/troyelib.min.js",
   "browser": "dist/troyelib.esm.js",
