@@ -1,8 +1,8 @@
 {
   "name": "troyelib",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
-  "main": "dist/troyelib.ssr.js",
+  "main": "dist/troyelib.min.js",
   "browser": "dist/troyelib.esm.js",
   "module": "dist/troyelib.esm.js",
   "unpkg": "dist/troyelib.min.js",
