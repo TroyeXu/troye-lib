@@ -2,9 +2,7 @@
 .thumbs.db
 node_modules
 
-# Quasar core related directories
-.quasar
-/dist
+
 
 # Log files
 npm-debug.log*
